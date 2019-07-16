@@ -1,0 +1,12 @@
+{
+  "name": "timekeeping",
+  "version": "1.0.0",
+  "description": "This module is used to calculate the time difference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["date","time","difference","timekeeping"],
+  "author": "hexiaoxiao",
+  "license": "ISC"
+}
